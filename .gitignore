@@ -5,3 +5,4 @@
 /.vs/CookieGrinder
 /CookieGrinder/bin/Debug/net6.0-windows
 /CookieGrinder/obj
+/CookieGrinder/bin/Release/net6.0-windows
