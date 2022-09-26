@@ -1,2 +1,2 @@
 # CookieGrinder
-SImulates mouse clicks in order to beat various clicker games.
+Simulates mouse clicks in order to beat various clicker games.
